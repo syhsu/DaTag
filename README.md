@@ -1,5 +1,7 @@
 # DaTag
-Applying Hierarchical edge bundling to visualize the relationships among Datasets, Attributes, and user-defined Tags.
+Applying Hierarchical edge bundling to visualize the relationships among Datasets, Attributes, and user-defined Tags. <br />
+
+http://cslab1.cs.nctu.edu.tw/DaTag/dynamic.htm
 
 # "readme-flare-imports.jon"
   1. Databases --> Tags
